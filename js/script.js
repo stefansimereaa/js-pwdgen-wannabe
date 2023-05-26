@@ -34,4 +34,4 @@ const userColor = prompt(`Qual' è il tuo colore preferito?`, `Blu`);
 console.log(userColor);
 
 // Inserisco nell'elemento la password come contenuto testuale 
-passwordNumber.innerText += ' ' + userName + userSurname + userColor + 21;
+passwordNumber.innerText += ' ' + userName + userSurname + userColor + `21`;
